@@ -1,5 +1,5 @@
 /** @type {import('tailwindcss').Config} */
-module.exports = {
+module.exports = { http://localhost:5173/
   content: ["*"],
   theme: {
     extend: {},
